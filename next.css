@@ -42,3 +42,7 @@ header {
 .aim {
   text-align: left;
 }
+
+.aim h1 {
+  white-space: nowrap;
+}
