@@ -111,8 +111,8 @@ header {
 }
 
 .prof1 {
-  width: 350px;
-  height: 400px;
+  width: 320px;
+  height: 350px;
   flex: 0.5;
   display: block;
 }
