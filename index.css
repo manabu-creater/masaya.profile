@@ -71,9 +71,8 @@ header {
 .background {
   /* width: 700px; */
   display: flex;
-  margin-top: 10%;
   width: 650px;
-  margin: 0 auto;
+  margin: 10% auto 3% auto; 
 }
 
 .title1 {
@@ -112,12 +111,10 @@ header {
 }
 
 .prof1 {
-  width: 270px;
-  height: 350px;
-  /* margin-left: 5%; */
+  width: 350px;
+  height: 400px;
   flex: 0.5;
   display: block;
-  margin-right: 8%;
 }
 
 .profile1 {
@@ -145,7 +142,7 @@ header {
 }
 
 .profile1 p, .profile2 p {
-  font-size: 140%;
+  font-size: 150%;
   white-space: nowrap;
   text-align: left;
   /* margin: 0 auto; */
