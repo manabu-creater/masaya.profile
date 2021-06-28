@@ -43,8 +43,9 @@ header {
   text-align: left;
 }
 
-.aim h1 {
+.aim p {
   white-space: nowrap;
+  font-size: 170%;
 }
 
 /* レスポンシブ携帯 */
@@ -56,8 +57,7 @@ header {
     background-color: #003366;
   }
   
-  .aim h1 {
-    white-space: nowrap;
+  .aim p {
     font-size: 60%;
   }
 
