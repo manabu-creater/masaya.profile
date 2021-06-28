@@ -34,13 +34,18 @@ header {
 }
 
 .aims {
-  margin-top: 10%;
+  margin: 10% auto 0;
   display: flex;
   justify-content: center;
+  
+  
 }
 
 .aim {
   text-align: left;
+  border: 1px solid black;
+  padding: 3% 3%;
+  display: inline-block;
 }
 
 .aim p {
@@ -48,9 +53,23 @@ header {
   font-size: 170%;
 }
 
-.plus {
-  margin-top: 5%;
+.last {
+  text-align: left;
 }
+
+.plus {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.last p {
+  display: block;
+  display: flex;
+  justify-content: center;
+  font-size: 170%;
+  margin-top: 3%;
+}
+
 
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
@@ -61,7 +80,13 @@ header {
     background-color: #003366;
   }
   
-  .aim p {
+  .aim h1 {
+    white-space: nowrap;
+    font-size: 60%;
+    display: inline-block;
+  }
+
+  .last p {
     font-size: 60%;
   }
 
