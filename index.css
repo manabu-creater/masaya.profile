@@ -145,8 +145,7 @@ header {
   font-size: 150%;
   white-space: nowrap;
   text-align: left;
-  /* margin: 0 auto; */
-  /* display: inline-block; */
+  margin-right: 5%;
 }
 
 .profile2 p {
