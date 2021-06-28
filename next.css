@@ -48,6 +48,10 @@ header {
   font-size: 170%;
 }
 
+.plus {
+  margin-top: 5%;
+}
+
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
   header {
