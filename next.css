@@ -46,3 +46,19 @@ header {
 .aim h1 {
   white-space: nowrap;
 }
+
+/* レスポンシブ携帯 */
+@media screen and (max-width: 599px) {
+  header {
+    display: flex;
+    width: 100%;
+    height: 25px;
+    background-color: #003366;
+  }
+  
+  .aim h1 {
+    white-space: nowrap;
+    font-size: 60%;
+  }
+
+}
