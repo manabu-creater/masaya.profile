@@ -93,6 +93,10 @@ header {
     background-color: #003366;
   }
   
+  .aim {
+    width: 599px;
+  }
+  
   .aim h1 {
     white-space: nowrap;
     font-size: 60%;
