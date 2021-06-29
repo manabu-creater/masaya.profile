@@ -44,7 +44,7 @@ header {
 .aim {
   text-align: left;
   border: 1px solid black;
-  padding: 2% 2%;
+  padding: 3% 3%;
   display: inline-block;
 }
 
@@ -54,7 +54,7 @@ header {
 }
 
 .last {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 .plus {
@@ -66,9 +66,21 @@ header {
   display: block;
   display: flex;
   justify-content: center;
-  font-size: 155%;
-  font-weight: bold;
+  font-size: 170%;
   margin-top: 3%;
+  
+}
+
+.photos {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.photo {
+  width: 450px;
+  height: 340px;
+  margin: 20px 20px;
 }
 
 
@@ -89,6 +101,16 @@ header {
 
   .last p {
     font-size: 60%;
+  }
+
+  .photos {
+    width: 599px;
+  }
+
+  .photo {
+    width: 225px;
+    height: 170px;
+    margin: 10px 10px;
   }
 
 }
