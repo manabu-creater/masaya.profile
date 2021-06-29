@@ -102,6 +102,10 @@ header {
     font-size: 60%;
     display: inline-block;
   }
+  
+  .aim p {
+    font-size: 60%
+  }
 
   .last p {
     font-size: 60%;
