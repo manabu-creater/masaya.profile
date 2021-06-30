@@ -87,7 +87,7 @@ header {
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
   header {
-    height: 40px;
+    height: 30px;
   }
   
 /*   .aims {
@@ -96,7 +96,7 @@ header {
 
   .aim p {
     /* white-space: nowrap; */
-    font-size: 100%;
+    font-size: 75%;
     /* display: inline-block; */
   }
   
@@ -110,7 +110,7 @@ header {
   }
 
   .last p {
-    font-size: 100%;
+    font-size: 80%;
   }
 
   .photos {
