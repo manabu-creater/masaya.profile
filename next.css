@@ -86,20 +86,17 @@ header {
 
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
-/*   header {
-    display: flex;
-    width: 599px;
+  header {
     height: 40px;
-    background-color: #003366;
   }
   
-  .aims {
+/*   .aims {
     width: 580px;
-  }
- */
+  } */
+
   .aim p {
     /* white-space: nowrap; */
-    font-size: 60%;
+    font-size: 100%;
     /* display: inline-block; */
   }
   
@@ -113,7 +110,7 @@ header {
   }
 
   .last p {
-    font-size: 60%;
+    font-size: 100%;
   }
 
   .photos {
@@ -123,8 +120,8 @@ header {
   }
 
   .photo {
-    width: 200px;
-    height: 150px;
+    width: 180px;
+    height: 130px;
     margin: 10px 10px;
   }
 
