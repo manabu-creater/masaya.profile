@@ -182,9 +182,9 @@ header {
 
   .background {
     width: 90%;
-    margin: initial;
+/*     margin: initial;
     margin-top: 5%;
-    margin-left: 5%;
+    margin-left: 5%; */
   }
 
   .background p {
