@@ -180,7 +180,7 @@ header {
     width: 90%;
     margin: initial;
     margin-top: 5%;
-    margin-left: 5%;
+    margin-left: 9%;
   }
 
   .background p {
@@ -197,7 +197,7 @@ header {
   }
 
   .contents p {
-    font-size: 120%;
+    font-size: 160%;
   }
 
   .background2 {
@@ -211,6 +211,10 @@ header {
   .profile2 h2 {
     margin-bottom: 4%;
     font-size: 200%;
+  }
+  
+  .profile2 p {
+    font-size: 110%;
   }
     
 }
