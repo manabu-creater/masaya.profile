@@ -73,8 +73,7 @@ header {
 
 .photos {
   display: flex;
-  width: 1000px;
-  margin: 0 auto;
+  justify-content: center;
 }
 
 .photo {
@@ -114,9 +113,8 @@ header {
   }
 
   .photos {
-/*     width: 580px; */
-    /* margin: 0 auto; */
     text-align: center;
+    width: 380px
   }
 
   .photo {
