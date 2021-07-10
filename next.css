@@ -89,21 +89,10 @@ header {
     height: 30px;
   }
   
-/*   .aims {
-    width: 580px;
-  } */
-
   .aim p {
-    /* white-space: nowrap; */
     font-size: 75%;
-    /* display: inline-block; */
   }
   
-/*   .last {
-    width: 550px;
-    margin: 0 auto;
-  } */
-
   .last h1 {
     font-size: 120%;
   }
@@ -114,13 +103,13 @@ header {
 
   .photos {
     text-align: center;
-    width: 380px
+    width: 380px; 
   }
 
   .photo {
     width: 180px;
     height: 130px;
-    margin: 10px 10px 10px 30px;
+    margin: 10px 10px;
   }
 
 }
